@@ -42,7 +42,7 @@ const pramodh = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,redux,nextjs,nodejs,express,mongodb,mysql,socketio,docker,aws,nginx,git,githubactions,vercel,netlify,linux,figma,blender,postman,jest&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,redux,nextjs,nodejs,express,mongodb,mysql,socketio,docker,aws,nginx,git,githubactions,vercel,netlify,linux,figma,blender,postman,jest&theme=dark&perline=13" />
 
 </div>
 
@@ -132,8 +132,8 @@ Check out my pinned repositories for the latest — from full-stack apps to algo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pramodh369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodh369&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Pramodh369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pramodh369&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramodh369&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
