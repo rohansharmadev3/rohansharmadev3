@@ -42,7 +42,7 @@ const pramodh = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,redux,nextjs,nodejs,express,mongodb,mysql,socketio,docker,aws,nginx,git,githubactions,vercel,netlify,linux,figma,blender,postman,jest&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,redux,nextjs,nodejs,express,mongodb,mysql,docker,aws,nginx,git,githubactions,vercel,netlify,linux,figma,blender,postman,jest&theme=dark" />
 
 </div>
 
