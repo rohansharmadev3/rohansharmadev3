@@ -46,7 +46,7 @@ const pramodh = {
 
 </div>
 
-**Also in the toolbox**
+**Rest of the Stack**
 
 <div align="center">
 
