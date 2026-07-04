@@ -127,10 +127,7 @@ Check out my pinned repositories for the latest — from full-stack apps to algo
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Pramodh369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Pramodh369&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pramodh369&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Pramodh369&theme=tokyonight&hide_border=true" width="60%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramodh369&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
