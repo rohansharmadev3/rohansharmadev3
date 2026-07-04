@@ -46,7 +46,9 @@ const pramodh = {
 
 </div>
 
-**Real-Time, Auth & API**
+**Also in the toolbox**
+
+<div align="center">
 
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
@@ -55,25 +57,18 @@ const pramodh = {
 ![RESTful API](https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-**Data & Storage**
-
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![RDBMS](https://img.shields.io/badge/RDBMS_%2F_SQL-4479A1?style=for-the-badge)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-FF6600?style=for-the-badge)
-
-**Deployment & Hosting**
-
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![DuckDNS](https://img.shields.io/badge/DuckDNS-2F80ED?style=for-the-badge)
-
-**Design & Tooling**
-
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![AOS](https://img.shields.io/badge/AOS-FF6B6B?style=for-the-badge)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-40AEF0?style=for-the-badge)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -133,7 +128,9 @@ Check out my pinned repositories for the latest — from full-stack apps to algo
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Pramodh369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pramodh369&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Pramodh369&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pramodh369&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramodh369&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
