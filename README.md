@@ -1,150 +1,364 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20there,%20I'm%20Pramodh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20crafting%20real-time%20experiences&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=230&section=header&text=Hi%20there,%20I'm%20Pramodh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Building%20Modern%20Web%20Applications&descAlignY=57&descSize=18" width="100%"/>
 
 <a href="https://github.com/Pramodh369">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+production-grade+web+apps;MERN+Stack+%7C+Real-Time+Systems+%7C+DevOps;Docker+%E2%80%A2+AWS+%E2%80%A2+WebRTC+%E2%80%A2+Socket.IO;Turning+ideas+into+deployed%2C+working+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Docker+%7C+AWS+EC2+%7C+Socket.IO+%7C+WebRTC;Always+Learning+Always+Building" />
 </a>
 
-<br/>
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pramodh369&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Pramodh369?style=for-the-badge&color=6366F1&labelColor=1a1a2e)](https://github.com/Pramodh369?tab=followers)
-[![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-Achieved-8B5CF6?style=for-the-badge&labelColor=1a1a2e)](https://github.com/Pramodh369)
-[![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Achieved-6366F1?style=for-the-badge&labelColor=1a1a2e)](https://github.com/Pramodh369)
+![](https://komarev.com/ghpvc/?username=Pramodh369&style=for-the-badge&color=8B5CF6)
 
-</div>
+[![Followers](https://img.shields.io/github/followers/Pramodh369?style=for-the-badge&color=6366F1&labelColor=1a1a2e)](https://github.com/Pramodh369?tab=followers)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### 🚀 About Me
-
-```javascript
-const pramodh = {
-    role: "Full Stack Developer",
-    stack: "MERN (MongoDB, Express, React, Node.js)",
-    focus: ["Real-time Systems", "WebRTC", "Scalable Backends", "DevOps"],
-    currentlyBuilding: "Production-ready full-stack applications",
-    funFact: "My code has more try-catch blocks than my actual life decisions 😄"
-};
-```
-
-- 🔭 I build **end-to-end products** — not just code, but deployed, containerized, CI/CD-backed applications
-- 💬 Ask me about **Socket.IO, WebRTC, Docker, or MongoDB data modeling**
-- 🌱 Constantly leveling up on **system design & scalable architecture**
-- 📫 **pramodheragani@gmail.com**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### 🛠️ Tech Arsenal
-
-**Core Stack**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,react,redux,nextjs,nodejs,express,mongodb,mysql,docker,aws,nginx,git,githubactions,vercel,netlify,linux,figma,blender,postman,jest&theme=dark" />
+[![Stars](https://img.shields.io/github/stars/Pramodh369?affiliations=OWNER&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e)](https://github.com/Pramodh369)
 
 </div>
 
-**Real-Time, Auth & API**
+---
 
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+# 👨‍💻 About Me
+
+I'm a **Full Stack MERN Developer** passionate about building scalable, responsive, and real-time web applications.
+
+I enjoy transforming ideas into production-ready applications by combining modern frontend technologies with secure backend architectures.
+
+My primary focus is developing applications that deliver clean user experiences, robust authentication, efficient APIs, and seamless real-time communication.
+
+---
+
+## 🚀 What I Do
+
+- 💻 Build complete MERN Stack applications
+- ⚡ Develop RESTful APIs & backend services
+- 🔐 Implement secure JWT Authentication
+- 💬 Create Real-Time Chat using Socket.IO
+- 🎥 Develop WebRTC Video Communication
+- 🐳 Containerize applications using Docker
+- ☁️ Deploy applications on AWS EC2
+- 📱 Design responsive and modern user interfaces
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes
+- Redis
+- CI/CD Pipelines
+- Advanced Backend Architecture
+- System Design
+
+---
+
+# 🛠 Tech Arsenal
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,redux,javascript,typescript,html,css,tailwind,bootstrap,vite,nextjs&theme=dark" />
+
+</p>
+
+---
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+
+</p>
+
+---
+
+## DevOps & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,githubactions,vercel,netlify&theme=dark" />
+
+</p>
+
+---
+
+## Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,bash&theme=dark" />
+
+</p>
+
+---
+
+## Additional Technologies
+
+<p align="center">
+
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio)
+
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
+
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-3C3C3D?style=for-the-badge)
-![Joi](https://img.shields.io/badge/Joi_Validation-0B4A6F?style=for-the-badge)
-![RESTful API](https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-**Data & Storage**
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
 
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![RDBMS](https://img.shields.io/badge/RDBMS_%2F_SQL-4479A1?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios)
+
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose)
+
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
+
 ![Multer](https://img.shields.io/badge/Multer-FF6600?style=for-the-badge)
 
-**Deployment & Hosting**
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![DuckDNS](https://img.shields.io/badge/DuckDNS-2F80ED?style=for-the-badge)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway)
 
-**Design & Tooling**
+</p>
 
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![AOS](https://img.shields.io/badge/AOS-FF6B6B?style=for-the-badge)
-![Thunder Client](https://img.shields.io/badge/Thunder_Client-40AEF0?style=for-the-badge)
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### 🌟 Featured Projects
+# 🌟 Featured Projects
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-#### 📊 [Axenor](https://github.com/Pramodh369/Axenor)
-**Investment Management Platform**
+## 🌐 Netzen
 
-MERN-based fintech dashboard with secure auth, portfolio tracking, holdings, watchlists, and fund management — backed by data-driven analytics.
+### Professional Social Networking Platform
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+A modern full-stack developer networking platform focused on collaboration and real-time interaction.
+
+### Highlights
+
+- JWT Authentication
+- Real-Time Messaging
+- Posts & Feeds
+- Responsive Dashboard
+- Docker Deployment
+- AWS EC2 Hosting
+
+### Tech Stack
+
+React • Node.js • Express • MongoDB • Socket.IO • Docker • AWS
+
+➡️ **Repository**
+
+https://github.com/Pramodh369/Netzen
 
 </td>
+
 <td width="50%" valign="top">
 
-#### 🌐 [Netzen](https://github.com/Pramodh369/Netzen)
-**Developer Social Network**
+## 📈 Axenor
 
-Real-time social platform for developers with live chat, posts, and notifications — containerized and deployed on AWS EC2.
+### Investment Management Platform
 
-![Socket](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+A MERN-based fintech application providing portfolio tracking, holdings management, watchlists, and secure authentication.
+
+### Highlights
+
+- Portfolio Dashboard
+- Holdings Management
+- Watchlists
+- JWT Authentication
+- Responsive UI
+
+### Tech Stack
+
+React • Redux • Express • MongoDB • Node.js
+
+➡️ **Repository**
+
+https://github.com/Pramodh369/Axenor
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-#### 🎥 [MeetX](https://github.com/Pramodh369/MeetX)
-**Real-Time Video Meeting App**
+## 🎥 MeetX
 
-WebRTC-powered video conferencing with peer-to-peer calls, screen sharing, live chat, and secure auth — built with Simple-Peer & Socket.IO.
+### Real-Time Video Conferencing
 
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![SimplePeer](https://img.shields.io/badge/-Simple--Peer-333333?style=flat-square) ![Socket](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+A WebRTC-powered meeting platform with secure authentication and seamless communication.
+
+### Highlights
+
+- Video Calling
+- Screen Sharing
+- Live Chat
+- WebRTC
+- Socket.IO
+
+### Tech Stack
+
+React • Node.js • Express • MongoDB • WebRTC • Socket.IO
+
+➡️ **Repository**
+
+https://github.com/Pramodh369/MeetX
 
 </td>
+
 <td width="50%" valign="top">
 
-#### ✨ More on the way
-**Always shipping something new**
+## 🚀 More Projects
 
-Check out my pinned repositories for the latest — from full-stack apps to algorithm practice.
+Always exploring new technologies and building practical applications.
 
-[**→ View all repositories**](https://github.com/Pramodh369?tab=repositories)
+Projects include:
+
+- MERN Applications
+- REST APIs
+- Full Stack Projects
+- UI/UX Experiments
+- Deployment Practice
+
+➡️ Explore all repositories:
+
+https://github.com/Pramodh369?tab=repositories
 
 </td>
+
 </tr>
+
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-### 📈 GitHub Stats
+# 💡 Development Philosophy
+
+> **"Great software is built through clean architecture, continuous learning, and attention to detail."**
+
+---# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pramodh369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodh369&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pramodh369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramodh369&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pramodh369&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodh369&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+---
+
+# 📈 Contribution Activity
+
 <div align="center">
 
-### 💜 Let's Build Something Great Together
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pramodh369&theme=react-dark&hide_border=true&area=true"/>
 
-[![Gmail](https://img.shields.io/badge/pramodheragani@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramodheragani@gmail.com)
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer"/>
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pramodh369&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 💼 What I Bring
+
+<div align="center">
+
+| 💻 Development | 🚀 Backend | ☁️ Deployment | 🤝 Collaboration |
+|:--------------:|:----------:|:-------------:|:----------------:|
+| Full Stack MERN | REST APIs | Docker | Git & GitHub |
+| Responsive UI | JWT Authentication | AWS EC2 | Agile Workflow |
+| Modern React | Express.js | Linux | Clean Code |
+| Tailwind CSS | MongoDB | Render | Problem Solving |
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+```text
+✔ Building Production-Level MERN Applications
+
+✔ Scalable Backend Development
+
+✔ Real-Time Communication Systems
+
+✔ Cloud Deployment & Docker
+
+✔ System Design Fundamentals
+
+✔ Clean Architecture
+
+✔ Performance Optimization
+
+✔ Continuous Learning
+```
+
+---
+
+# 🌍 Let's Connect
+
+<div align="center">
+
+<a href="mailto:pramodheragani@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Pramodh369">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Replace with your LinkedIn -->
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<!-- Replace with your Portfolio -->
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💜 A Little More About Me
+
+<div align="center">
+
+💡 I enjoy transforming ideas into real-world applications.
+
+⚡ I believe great software is built through consistency, curiosity, and continuous improvement.
+
+🚀 Every project I build is an opportunity to learn something new and create meaningful user experiences.
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer"/>
 
 </div>
