@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20there,%20I'm%20Pramodh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20crafting%20real-time%20experiences&descAlignY=55&descSize=18" width="100%"/>
@@ -35,7 +34,7 @@ const pramodh = {
 - 🌱 Constantly leveling up on **system design & scalable architecture**
 - 🌐 Portfolio: **[portfolio1-seven-gules.vercel.app](https://portfolio1-seven-gules.vercel.app/)**
 - 💼 LinkedIn: **[linkedin.com/in/pramodheragani](https://www.linkedin.com/in/pramodheragani/)**
-- 📫 **pramodheragani@gmail.com**
+- 📫 Mail: **pramodheragani@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
