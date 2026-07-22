@@ -130,11 +130,9 @@ Check out my pinned repositories for the latest — from full-stack apps to algo
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Pramodh369&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramodh369&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
-
-<div align="center">
 
 ### 💜 Let's Build Something Great Together
 
